@@ -14,7 +14,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
     - [Built with](#built-with)
   - [Author](#author)
 
-
 ## Overview
 
 ### The challenge
@@ -29,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-eyhRAbQWIe)
+- Live Site URL: [GitHub Pages](https://oxyyz.github.io/stats-preview-card-component-frontend-mentor-solution/)
 
 ## My process
 
